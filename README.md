@@ -1,10 +1,6 @@
-Sure, Rushikesh! Here’s your bio formatted in a similar style to Jerome's:
-
----
-
 👋 Hi, I'm Rushikesh Wakhre! I’m an aspiring DevOps Engineer from Pune, Maharashtra, India, with a solid foundation in automation, cloud computing, and collaboration.
 
-### Contact Information
+ Contact Information
 - 📞 +91 8378001236
 - 📧 wakhrerushi@gmail.com
 - 🔗 [LinkedIn](#)
